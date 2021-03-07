@@ -1,3 +1,3 @@
 # MinDi
 
-A smart mind diary which extracts text from images and performs sentimental analysis.
+A smart mind diary which extracts text from diary/journal images and performs sentimental analysis.
